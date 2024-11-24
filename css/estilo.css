@@ -1,0 +1,291 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+h1{
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80px;
+  line-height: 150px;
+  
+	
+  
+}
+
+p, a, i{
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+ 
+	
+}
+
+h2, h3, h4, h5  {
+	font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+#carouselExampleIndicators1{
+	background-color: black;
+}
+
+body{
+	background-color: #2B2B2B;
+	padding: 0px;
+	margin: 15px;
+}
+
+.container{
+	background-color: #171947;
+	
+}
+
+
+.carrusel1{
+	/*margin-left: 10px;
+	margin-right: 10px;*/
+}
+
+.carrusel2{
+	/*margin-left: 10px;
+	margin-right: 10px;*/
+	border-bottom-style: double;
+	border-top-style: double;
+	border-bottom-width: 6px;
+	border-top-width: 6px;
+	border-top-color: #E2E3E4;
+	border-bottom-color: #E2E3E4;
+}
+
+.carousel-caption{
+	color: #E2E3E4;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+.libros{
+	text-align: center;
+	color:#E2E3E4;
+}
+
+#encabezado1{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	
+	color: #E2E3E4;
+	background-image: url("../images/titulo.webp");
+	background-size: cover;
+	border-style: solid;
+	border-width: 10px;
+	border-color: #2D3A65;
+	border-bottom: none;
+}
+
+.introduccion{
+	padding: 6px;
+	/*margin-left: 10px;
+	margin-right: 10px;*/
+	background-color: #E2E3E4;
+	padding: 4px;
+	text-align: center;	
+	border-top-style:double;
+	border-top-width: 5px;
+	border-color: #070A2B;
+	color: #070A2B;
+	font-weight: bold;
+	font-size: 14px;
+	border-bottom: double;
+	border-bottom-width: 5px;
+	border-color: #070A2B;
+}
+
+
+.nav-link{
+	width: 50;
+	color: whitesmoke;
+}
+.nav-tabs{
+	background-color: #070D59;
+	width: 100;
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	
+}
+
+
+.nav-link:hover{
+	font-weight: bold;
+	background-color: #891A3D;
+	border: none;
+	color: #E2E3E4;
+}
+
+.d-block mx-auto{
+	
+}
+
+.row{
+	margin-top: 15px;
+}
+
+
+.card .col-md-4{
+	width: 25%;
+}
+
+.col-xl-12{
+	background-color: #891A3D;
+	color: #E2E3E4;
+}
+
+.btn-primary{
+	text-align: center;
+}
+
+.titulo-personaje{
+	color: #E2E3E4;
+	text-align: center;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.card-img-top{
+	padding-top: 10px;
+	width: 300px;
+}
+
+.card-title{
+	text-align: center;
+}
+
+.mb-0{
+	text-align: center;
+}
+
+.card-body{
+	text-align: center;
+}
+
+.img-fluid{
+	margin-left: 42.7%;
+}
+
+.btn-primary{
+	margin-left: 3%;
+	background-color: #070D59;
+	border: none;
+	color: #E2E3E4;	
+	
+}
+
+.btn-primary:hover{
+	margin-left: 3%;
+	background-color: #324676;
+	border: none;
+	color: #E2E3E4;
+	font-weight: bold;	
+	
+}
+
+.btn-primary2{
+	margin-left: 44%;
+	background-color: #070D59;
+	border: none;
+	color: #E2E3E4
+}
+
+.btn-primary2:hover{
+	margin-left: 44%;
+	background-color: #5F85E3;
+	border: none;
+	color: #E2E3E4;
+	font-weight: bold;
+}
+
+a{
+	color: #E2E3E4;
+}
+
+a:hover{
+	font-weight: bold;
+	color: #E2E3E4;
+}
+
+
+.card-header{
+	background-color: #2D3A65;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #12182A;
+}
+
+#headingTwo1{
+	border-style: solid;
+	border-width: 2px;
+	border-color: #12182A;
+}
+
+.collapse{
+	background-color: #891A3D;
+	padding-bottom: 6px;
+	padding-top: 7px;
+}
+
+.card-body{
+	color: #E2E3E4;
+}
+
+
+
+.video2{
+	text-align: center;
+	color: #E2E3E4;
+	font-size: 10px;
+	padding-bottom: 15px;
+}
+
+.btn-info{
+	margin-left: 42%;
+	background-color: #5F85E3;
+	border: none;
+	color: #272626;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.btn-info:hover{
+	margin-left: 42%;
+	background-color: #891A3D;
+	border: none;
+	color: #E2E3E4;
+	font-weight: bold;
+	padding-top: 7px;
+}
+
+.pie{
+	margin-top: 10px;
+	text-align: right;
+	padding-right: 13px;
+	background-color: #070A2B;
+	border-top-style: double;
+	border-top-width: 4px;
+	border-top-color: #E2E3E4;
+}
+
+.pietexto{
+	color: #E2E3E4;
+	padding-top: 16px;
+	height: 50px;
+	font-size: 14px;
+}

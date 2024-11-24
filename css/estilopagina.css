@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+#carouselExampleIndicators1{
+	background-color: black;
+}
+
+.carrusel{
+	width: 300px;
+}
+
+
+.encabezado1 #encabezado1{
+	text-align: center;
+	font-size: 80px;
+	color:palevioletred;
+}
